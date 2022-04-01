@@ -90,8 +90,15 @@ body {
 }
 
 
-table, th, td {
+.tcolor {
   border:1px solid black;
+}
+
+.bor {
+  width: 200px;
+  height: 280px;
+  border:2px solid rgb(116, 110, 110);
+  background-color: rgb(242, 238, 238);
 }
 
 hr {
